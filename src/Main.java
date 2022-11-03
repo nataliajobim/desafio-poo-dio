@@ -56,8 +56,5 @@ public class Main {
         System.out.println("Conteúdos Inscritos Natália: " + devNatalia.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Natália: " + devNatalia.getConteudosConcluidos());
         System.out.println("XP: " + devNatalia.calcularTotalXp());
-
-
-
     }
 }
